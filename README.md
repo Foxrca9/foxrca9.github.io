@@ -19,7 +19,7 @@
     </header>
     <main>
         <section id="home">
-            <h1>Welcome to My Website</h1>
+            <h1>FAM Trades</h1>
             <p>This is a simple, clean website template.</p>
         </section>
         <section id="about">
