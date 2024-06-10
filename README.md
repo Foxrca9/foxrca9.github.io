@@ -19,8 +19,8 @@
     </header>
     <main>
         <section id="home">
-            <h1>FAM Trades</h1>
-            <p>This is a simple, clean website template.</p>
+            <h1>Learn and Earn Program</h1>
+            <p>What are we?</p>
         </section>
         <section id="about">
             <h2>About Us</h2>
